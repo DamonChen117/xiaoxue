@@ -1,0 +1,854 @@
+{
+  "books" : [
+    {
+      "name" : "PEP 小学语文1年级上",
+      "publisher" : "PEP",
+      "course" : "CN",
+      "lessonCount" : 46,
+      "production_id" : 32,
+      "grade" : 1,
+      "freeLessons" : 4,
+      "pageCount" : 148
+    },
+    {
+      "name" : "PEP 小学语文1年级下",
+      "publisher" : "PEP",
+      "course" : "CN",
+      "lessonCount" : 42,
+      "production_id" : 33,
+      "grade" : 2,
+      "freeLessons" : 6,
+      "pageCount" : 178
+    },
+    {
+      "name" : "PEP 小学语文2年级上",
+      "publisher" : "PEP",
+      "course" : "CN",
+      "lessonCount" : 42,
+      "production_id" : 34,
+      "grade" : 3,
+      "freeLessons" : 9,
+      "pageCount" : 186
+    },
+    {
+      "name" : "PEP 小学语文2年级下",
+      "publisher" : "PEP",
+      "course" : "CN",
+      "lessonCount" : 40,
+      "production_id" : 35,
+      "grade" : 4,
+      "freeLessons" : 9,
+      "pageCount" : 170
+    },
+    {
+      "name" : "译林 小学英语2年级下",
+      "publisher" : "YL",
+      "course" : "EN",
+      "lessonCount" : 11,
+      "production_id" : 11,
+      "grade" : 4,
+      "freeLessons" : 6,
+      "pageCount" : 47
+    },
+    {
+      "name" : "PEP 小学语文3年级上",
+      "publisher" : "PEP",
+      "course" : "CN",
+      "lessonCount" : 40,
+      "production_id" : 36,
+      "grade" : 5,
+      "freeLessons" : 9,
+      "pageCount" : 170
+    },
+    {
+      "name" : "PEP 小学语文3年级下",
+      "publisher" : "PEP",
+      "course" : "CN",
+      "lessonCount" : 48,
+      "production_id" : 37,
+      "grade" : 6,
+      "freeLessons" : 3,
+      "pageCount" : 182
+    },
+    {
+      "name" : "PEP 小学语文4年级上",
+      "publisher" : "PEP",
+      "course" : "CN",
+      "lessonCount" : 40,
+      "production_id" : 38,
+      "grade" : 7,
+      "freeLessons" : 9,
+      "pageCount" : 185
+    },
+    {
+      "name" : "PEP 小学语文4年级下",
+      "publisher" : "PEP",
+      "course" : "CN",
+      "lessonCount" : 48,
+      "production_id" : 39,
+      "grade" : 8,
+      "freeLessons" : 9,
+      "pageCount" : 186
+    },
+    {
+      "name" : "PEP 小学语文5年级上",
+      "publisher" : "PEP",
+      "course" : "CN",
+      "lessonCount" : 36,
+      "production_id" : 40,
+      "grade" : 9,
+      "freeLessons" : 9,
+      "pageCount" : 184
+    },
+    {
+      "name" : "PEP 小学语文5年级下",
+      "publisher" : "PEP",
+      "course" : "CN",
+      "lessonCount" : 44,
+      "production_id" : 41,
+      "grade" : 10,
+      "freeLessons" : 10,
+      "pageCount" : 193
+    },
+    {
+      "name" : "PEP 小学语文6年级上",
+      "publisher" : "PEP",
+      "course" : "CN",
+      "lessonCount" : 36,
+      "production_id" : 42,
+      "grade" : 11,
+      "freeLessons" : 9,
+      "pageCount" : 174
+    },
+    {
+      "name" : "PEP 小学语文6年级下",
+      "publisher" : "PEP",
+      "course" : "CN",
+      "lessonCount" : 33,
+      "production_id" : 43,
+      "grade" : 12,
+      "freeLessons" : 10,
+      "pageCount" : 174
+    },
+    {
+      "name" : "PEP 小学语文1年级上",
+      "publisher" : "PEP",
+      "course" : "CN",
+      "lessonCount" : 62,
+      "production_id" : 44,
+      "grade" : 1,
+      "freeLessons" : 15,
+      "pageCount" : 119
+    },
+    {
+      "name" : "译林 小学英语1年级上",
+      "publisher" : "YL",
+      "course" : "EN",
+      "lessonCount" : 11,
+      "production_id" : 8,
+      "grade" : 1,
+      "freeLessons" : 4,
+      "pageCount" : 47
+    },
+    {
+      "name" : "PEP 小学语文1年级下",
+      "publisher" : "PEP",
+      "course" : "CN",
+      "lessonCount" : 38,
+      "production_id" : 46,
+      "grade" : 2,
+      "freeLessons" : 10,
+      "pageCount" : 122
+    },
+    {
+      "name" : "译林 小学英语1年级下",
+      "publisher" : "YL",
+      "course" : "EN",
+      "lessonCount" : 11,
+      "production_id" : 9,
+      "grade" : 2,
+      "freeLessons" : 4,
+      "pageCount" : 43
+    },
+    {
+      "name" : "译林 小学英语2年级上",
+      "publisher" : "YL",
+      "course" : "EN",
+      "lessonCount" : 10,
+      "production_id" : 10,
+      "grade" : 3,
+      "freeLessons" : 4,
+      "pageCount" : 43
+    },
+    {
+      "name" : "译林 小学英语2年级下",
+      "publisher" : "YL",
+      "course" : "EN",
+      "lessonCount" : 14,
+      "production_id" : 59,
+      "grade" : 4,
+      "freeLessons" : 3,
+      "pageCount" : 42
+    },
+    {
+      "name" : "PEP 小学英语3年级上",
+      "publisher" : "PEP",
+      "course" : "EN",
+      "lessonCount" : 20,
+      "production_id" : 22,
+      "grade" : 5,
+      "freeLessons" : 3,
+      "pageCount" : 75
+    },
+    {
+      "name" : "译林 小学英语3年级上",
+      "publisher" : "YL",
+      "course" : "EN",
+      "lessonCount" : 15,
+      "production_id" : 12,
+      "grade" : 5,
+      "freeLessons" : 4,
+      "pageCount" : 64
+    },
+    {
+      "name" : "PEP 小学英语3年级下",
+      "publisher" : "PEP",
+      "course" : "EN",
+      "lessonCount" : 20,
+      "production_id" : 23,
+      "grade" : 6,
+      "freeLessons" : 3,
+      "pageCount" : 75
+    },
+    {
+      "name" : "译林 小学英语3年级下",
+      "publisher" : "YL",
+      "course" : "EN",
+      "lessonCount" : 13,
+      "production_id" : 13,
+      "grade" : 6,
+      "freeLessons" : 2,
+      "pageCount" : 69
+    },
+    {
+      "name" : "PEP 小学英语4年级上",
+      "publisher" : "PEP",
+      "course" : "EN",
+      "lessonCount" : 22,
+      "production_id" : 24,
+      "grade" : 7,
+      "freeLessons" : 3,
+      "pageCount" : 75
+    },
+    {
+      "name" : "译林 小学英语4年级上",
+      "publisher" : "YL",
+      "course" : "EN",
+      "lessonCount" : 13,
+      "production_id" : 14,
+      "grade" : 7,
+      "freeLessons" : 4,
+      "pageCount" : 69
+    },
+    {
+      "name" : "PEP 小学英语4年级下",
+      "publisher" : "PEP",
+      "course" : "EN",
+      "lessonCount" : 17,
+      "production_id" : 25,
+      "grade" : 8,
+      "freeLessons" : 3,
+      "pageCount" : 76
+    },
+    {
+      "name" : "译林 小学英语4年级下",
+      "publisher" : "YL",
+      "course" : "EN",
+      "lessonCount" : 15,
+      "production_id" : 15,
+      "grade" : 8,
+      "freeLessons" : 4,
+      "pageCount" : 69
+    },
+    {
+      "name" : "PEP 小学英语5年级上",
+      "publisher" : "PEP",
+      "course" : "EN",
+      "lessonCount" : 22,
+      "production_id" : 26,
+      "grade" : 9,
+      "freeLessons" : 1,
+      "pageCount" : 75
+    },
+    {
+      "name" : "译林 小学英语5年级上",
+      "publisher" : "YL",
+      "course" : "EN",
+      "lessonCount" : 12,
+      "production_id" : 16,
+      "grade" : 9,
+      "freeLessons" : 6,
+      "pageCount" : 97
+    },
+    {
+      "name" : "PEP 小学英语5年级下",
+      "publisher" : "PEP",
+      "course" : "EN",
+      "lessonCount" : 30,
+      "production_id" : 28,
+      "grade" : 10,
+      "freeLessons" : 3,
+      "pageCount" : 80
+    },
+    {
+      "name" : "译林 小学英语5年级下",
+      "publisher" : "YL",
+      "course" : "EN",
+      "lessonCount" : 12,
+      "production_id" : 17,
+      "grade" : 10,
+      "freeLessons" : 6,
+      "pageCount" : 98
+    },
+    {
+      "name" : "PEP 小学英语6年级上",
+      "publisher" : "PEP",
+      "course" : "EN",
+      "lessonCount" : 10,
+      "production_id" : 29,
+      "grade" : 11,
+      "freeLessons" : 1,
+      "pageCount" : 79
+    },
+    {
+      "name" : "译林 小学英语6年级上",
+      "publisher" : "YL",
+      "course" : "EN",
+      "lessonCount" : 12,
+      "production_id" : 18,
+      "grade" : 11,
+      "freeLessons" : 6,
+      "pageCount" : 98
+    },
+    {
+      "name" : "PEP 小学英语6年级下",
+      "publisher" : "PEP",
+      "course" : "EN",
+      "lessonCount" : 10,
+      "production_id" : 30,
+      "grade" : 12,
+      "freeLessons" : 3,
+      "pageCount" : 71
+    },
+    {
+      "name" : "译林 小学英语6年级下",
+      "publisher" : "YL",
+      "course" : "EN",
+      "lessonCount" : 12,
+      "production_id" : 19,
+      "grade" : 12,
+      "freeLessons" : 6,
+      "pageCount" : 98
+    },
+    {
+      "name" : "译林 小学语文1年级上",
+      "publisher" : "YL",
+      "course" : "CN",
+      "lessonCount" : 47,
+      "production_id" : 47,
+      "grade" : 1,
+      "freeLessons" : 20,
+      "pageCount" : 131
+    },
+    {
+      "name" : "译林 小学语文1年级下",
+      "publisher" : "YL",
+      "course" : "CN",
+      "lessonCount" : 34,
+      "production_id" : 48,
+      "grade" : 2,
+      "freeLessons" : 12,
+      "pageCount" : 152
+    },
+    {
+      "name" : "译林 小学语文2年级上",
+      "publisher" : "YL",
+      "course" : "CN",
+      "lessonCount" : 31,
+      "production_id" : 49,
+      "grade" : 3,
+      "freeLessons" : 12,
+      "pageCount" : 148
+    },
+    {
+      "name" : "译林 小学语文2年级下",
+      "publisher" : "YL",
+      "course" : "CN",
+      "lessonCount" : 24,
+      "production_id" : 50,
+      "grade" : 4,
+      "freeLessons" : 8,
+      "pageCount" : 143
+    },
+    {
+      "name" : "译林 小学语文3年级上",
+      "publisher" : "YL",
+      "course" : "CN",
+      "lessonCount" : 26,
+      "production_id" : 51,
+      "grade" : 5,
+      "freeLessons" : 10,
+      "pageCount" : 145
+    },
+    {
+      "name" : "译林 小学语文3年级下",
+      "publisher" : "YL",
+      "course" : "CN",
+      "lessonCount" : 26,
+      "production_id" : 52,
+      "grade" : 6,
+      "freeLessons" : 8,
+      "pageCount" : 157
+    },
+    {
+      "name" : "译林 小学语文4年级上",
+      "publisher" : "YL",
+      "course" : "CN",
+      "lessonCount" : 26,
+      "production_id" : 53,
+      "grade" : 7,
+      "freeLessons" : 8,
+      "pageCount" : 146
+    },
+    {
+      "name" : "译林 小学语文4年级下",
+      "publisher" : "YL",
+      "course" : "CN",
+      "lessonCount" : 23,
+      "production_id" : 54,
+      "grade" : 8,
+      "freeLessons" : 8,
+      "pageCount" : 143
+    },
+    {
+      "name" : "译林 小学语文5年级上",
+      "publisher" : "YL",
+      "course" : "CN",
+      "lessonCount" : 31,
+      "production_id" : 55,
+      "grade" : 9,
+      "freeLessons" : 11,
+      "pageCount" : 159
+    },
+    {
+      "name" : "译林 小学语文5年级下",
+      "publisher" : "YL",
+      "course" : "CN",
+      "lessonCount" : 26,
+      "production_id" : 56,
+      "grade" : 10,
+      "freeLessons" : 8,
+      "pageCount" : 157
+    },
+    {
+      "name" : "译林 小学语文6年级上",
+      "publisher" : "YL",
+      "course" : "CN",
+      "lessonCount" : 25,
+      "production_id" : 57,
+      "grade" : 11,
+      "freeLessons" : 8,
+      "pageCount" : 149
+    },
+    {
+      "name" : "译林 小学语文6年级下",
+      "publisher" : "YL",
+      "course" : "CN",
+      "lessonCount" : 23,
+      "production_id" : 58,
+      "grade" : 12,
+      "freeLessons" : 8,
+      "pageCount" : 140
+    },
+    {
+      "name" : "新起点 小学英语1年级上",
+      "publisher" : "PEP",
+      "course" : "EN",
+      "lessonCount" : 9,
+      "production_id" : 65,
+      "grade" : 1,
+      "freeLessons" : 3,
+      "pageCount" : 64
+    },
+    {
+      "name" : "新起点 小学英语1年级下",
+      "publisher" : "PEP",
+      "course" : "EN",
+      "lessonCount" : 8,
+      "production_id" : 66,
+      "grade" : 2,
+      "freeLessons" : 2,
+      "pageCount" : 64
+    },
+    {
+      "name" : "新起点 小学英语2年级上",
+      "publisher" : "PEP",
+      "course" : "EN",
+      "lessonCount" : 8,
+      "production_id" : 67,
+      "grade" : 3,
+      "freeLessons" : 2,
+      "pageCount" : 62
+    },
+    {
+      "name" : "新起点 小学英语2年级下",
+      "publisher" : "PEP",
+      "course" : "EN",
+      "lessonCount" : 9,
+      "production_id" : 68,
+      "grade" : 4,
+      "freeLessons" : 2,
+      "pageCount" : 63
+    },
+    {
+      "name" : "新起点 小学英语3年级上",
+      "publisher" : "PEP",
+      "course" : "EN",
+      "lessonCount" : 60,
+      "production_id" : 69,
+      "grade" : 5,
+      "freeLessons" : 4,
+      "pageCount" : 82
+    },
+    {
+      "name" : "新起点 小学英语3年级下",
+      "publisher" : "PEP",
+      "course" : "EN",
+      "lessonCount" : 14,
+      "production_id" : 70,
+      "grade" : 6,
+      "freeLessons" : 2,
+      "pageCount" : 87
+    },
+    {
+      "name" : "新起点 小学英语4年级上",
+      "publisher" : "PEP",
+      "course" : "EN",
+      "lessonCount" : 60,
+      "production_id" : 71,
+      "grade" : 7,
+      "freeLessons" : 4,
+      "pageCount" : 90
+    },
+    {
+      "name" : "新起点 小学英语4年级下",
+      "publisher" : "PEP",
+      "course" : "EN",
+      "lessonCount" : 14,
+      "production_id" : 72,
+      "grade" : 8,
+      "freeLessons" : 2,
+      "pageCount" : 84
+    },
+    {
+      "name" : "新起点 小学英语5年级上",
+      "publisher" : "PEP",
+      "course" : "EN",
+      "lessonCount" : 60,
+      "production_id" : 73,
+      "grade" : 9,
+      "freeLessons" : 4,
+      "pageCount" : 103
+    },
+    {
+      "name" : "新起点 小学英语5年级下",
+      "publisher" : "PEP",
+      "course" : "EN",
+      "lessonCount" : 14,
+      "production_id" : 74,
+      "grade" : 10,
+      "freeLessons" : 2,
+      "pageCount" : 95
+    },
+    {
+      "name" : "新起点 小学英语6年级上",
+      "publisher" : "PEP",
+      "course" : "EN",
+      "lessonCount" : 60,
+      "production_id" : 75,
+      "grade" : 11,
+      "freeLessons" : 4,
+      "pageCount" : 110
+    },
+    {
+      "name" : "新起点 小学英语6年级下",
+      "publisher" : "PEP",
+      "course" : "EN",
+      "lessonCount" : 12,
+      "production_id" : 76,
+      "grade" : 12,
+      "freeLessons" : 2,
+      "pageCount" : 65
+    },
+    {
+      "name" : "精通版 小学英语3年级上",
+      "publisher" : "PEP",
+      "course" : "EN",
+      "lessonCount" : 44,
+      "production_id" : 77,
+      "grade" : 5,
+      "freeLessons" : 6,
+      "pageCount" : 89
+    },
+    {
+      "name" : "精通版 小学英语3年级下",
+      "publisher" : "PEP",
+      "course" : "EN",
+      "lessonCount" : 44,
+      "production_id" : 78,
+      "grade" : 6,
+      "freeLessons" : 6,
+      "pageCount" : 88
+    },
+    {
+      "name" : "精通版 小学英语4年级上",
+      "publisher" : "PEP",
+      "course" : "EN",
+      "lessonCount" : 44,
+      "production_id" : 79,
+      "grade" : 7,
+      "freeLessons" : 6,
+      "pageCount" : 88
+    },
+    {
+      "name" : "精通版 小学英语4年级下",
+      "publisher" : "PEP",
+      "course" : "EN",
+      "lessonCount" : 44,
+      "production_id" : 80,
+      "grade" : 8,
+      "freeLessons" : 6,
+      "pageCount" : 94
+    },
+    {
+      "name" : "精通版 小学英语5年级上",
+      "publisher" : "PEP",
+      "course" : "EN",
+      "lessonCount" : 51,
+      "production_id" : 81,
+      "grade" : 9,
+      "freeLessons" : 7,
+      "pageCount" : 89
+    },
+    {
+      "name" : "精通版 小学英语5年级下",
+      "publisher" : "PEP",
+      "course" : "EN",
+      "lessonCount" : 50,
+      "production_id" : 82,
+      "grade" : 10,
+      "freeLessons" : 7,
+      "pageCount" : 89
+    },
+    {
+      "name" : "精通版 小学英语6年级上",
+      "publisher" : "PEP",
+      "course" : "EN",
+      "lessonCount" : 52,
+      "production_id" : 83,
+      "grade" : 11,
+      "freeLessons" : 7,
+      "pageCount" : 89
+    },
+    {
+      "name" : "精通版 小学英语6年级下",
+      "publisher" : "PEP",
+      "course" : "EN",
+      "lessonCount" : 44,
+      "production_id" : 84,
+      "grade" : 12,
+      "freeLessons" : 7,
+      "pageCount" : 64
+    },
+    {
+      "name" : "北师大 小学英语6年级上",
+      "publisher" : "BNU",
+      "course" : "EN",
+      "lessonCount" : 32,
+      "production_id" : 89,
+      "grade" : 11,
+      "freeLessons" : 6,
+      "pageCount" : 90
+    },
+    {
+      "name" : "北师大 小学英语6年级下",
+      "publisher" : "BNU",
+      "course" : "EN",
+      "lessonCount" : 21,
+      "production_id" : 90,
+      "grade" : 12,
+      "freeLessons" : 6,
+      "pageCount" : 72
+    },
+    {
+      "name" : "新蕾 小学英语1年级上",
+      "publisher" : "BUD",
+      "course" : "EN",
+      "lessonCount" : 6,
+      "production_id" : 85,
+      "grade" : 1,
+      "freeLessons" : 1,
+      "pageCount" : 37
+    },
+    {
+      "name" : "新蕾 小学英语1年级下",
+      "publisher" : "BUD",
+      "course" : "EN",
+      "lessonCount" : 7,
+      "production_id" : 86,
+      "grade" : 2,
+      "freeLessons" : 2,
+      "pageCount" : 38
+    },
+    {
+      "name" : "新蕾 小学英语2年级上",
+      "publisher" : "BUD",
+      "course" : "EN",
+      "lessonCount" : 6,
+      "production_id" : 87,
+      "grade" : 3,
+      "freeLessons" : 1,
+      "pageCount" : 37
+    },
+    {
+      "name" : "新蕾 小学英语2年级下",
+      "publisher" : "BUD",
+      "course" : "EN",
+      "lessonCount" : 6,
+      "production_id" : 88,
+      "grade" : 4,
+      "freeLessons" : 1,
+      "pageCount" : 37
+    },
+    {
+      "name" : "PEP 小学语文2年级上",
+      "publisher" : "PEP",
+      "course" : "CN",
+      "lessonCount" : 44,
+      "production_id" : 201,
+      "grade" : 3,
+      "freeLessons" : 3,
+      "pageCount" : 121
+    },
+    {
+      "name" : "PEP 小学语文2年级下(部编版)",
+      "publisher" : "PEP",
+      "course" : "CN",
+      "lessonCount" : 37,
+      "production_id" : 624,
+      "grade" : 4,
+      "freeLessons" : 5,
+      "pageCount" : 124
+    },
+    {
+      "name" : "小学英语一年级上",
+      "publisher" : "HSD",
+      "course" : "EN",
+      "lessonCount" : 0,
+      "production_id" : 1,
+      "grade" : 1,
+      "freeLessons" : 0,
+      "pageCount" : 0
+    },
+    {
+      "name" : "小学英语一年级下",
+      "publisher" : "HSD",
+      "course" : "EN",
+      "lessonCount" : 0,
+      "production_id" : 60,
+      "grade" : 2,
+      "freeLessons" : 0,
+      "pageCount" : 0
+    },
+    {
+      "name" : "小学英语二年级上",
+      "publisher" : "HSD",
+      "course" : "EN",
+      "lessonCount" : 0,
+      "production_id" : 2,
+      "grade" : 3,
+      "freeLessons" : 0,
+      "pageCount" : 0
+    },
+    {
+      "name" : "小学英语二年级下",
+      "publisher" : "HSD",
+      "course" : "EN",
+      "lessonCount" : 0,
+      "production_id" : 61,
+      "grade" : 4,
+      "freeLessons" : 0,
+      "pageCount" : 0
+    },
+    {
+      "name" : "小学英语三年级上",
+      "publisher" : "HSD",
+      "course" : "EN",
+      "lessonCount" : 0,
+      "production_id" : 3,
+      "grade" : 5,
+      "freeLessons" : 0,
+      "pageCount" : 0
+    },
+    {
+      "name" : "小学英语三年级下",
+      "publisher" : "HSD",
+      "course" : "EN",
+      "lessonCount" : 0,
+      "production_id" : 62,
+      "grade" : 6,
+      "freeLessons" : 0,
+      "pageCount" : 0
+    },
+    {
+      "name" : "小学英语四年级上",
+      "publisher" : "HSD",
+      "course" : "EN",
+      "lessonCount" : 0,
+      "production_id" : 4,
+      "grade" : 7,
+      "freeLessons" : 0,
+      "pageCount" : 0
+    },
+    {
+      "name" : "小学英语四年级下",
+      "publisher" : "HSD",
+      "course" : "EN",
+      "lessonCount" : 0,
+      "production_id" : 63,
+      "grade" : 8,
+      "freeLessons" : 0,
+      "pageCount" : 0
+    },
+    {
+      "name" : "小学英语五年级上",
+      "publisher" : "HSD",
+      "course" : "EN",
+      "lessonCount" : 0,
+      "production_id" : 5,
+      "grade" : 9,
+      "freeLessons" : 0,
+      "pageCount" : 0
+    },
+    {
+      "name" : "小学英语五年级下",
+      "publisher" : "HSD",
+      "course" : "EN",
+      "lessonCount" : 0,
+      "production_id" : 64,
+      "grade" : 10,
+      "freeLessons" : 0,
+      "pageCount" : 0
+    }
+  ]
+}
